@@ -1,5 +1,4 @@
 # Daily-Scrum-meeting-procedure
-
 # Timing and Duration:
 - Typically held every day.
 - Strictly time-boxed to 15 minutes.
